@@ -1,0 +1,4 @@
+# Ignore TensorFlow model files and zip archives
+*.zip
+*.h5
+*.gif
